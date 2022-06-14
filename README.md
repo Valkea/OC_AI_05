@@ -70,9 +70,9 @@ So once the notebooks are opened (see below), prior to running it, follow this s
 
 #### Run the jupyter notebooks
 
-1. in order to see the EDA, run:
+1. in order to see the interactive EDA, run:
 ```bash
->>> jupyter notebook 01_EDA.ipynb
+>>> voila 01_EDA.ipynb
 ```
 
 2. to see the clustering models' selection, use the following command:
